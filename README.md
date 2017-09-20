@@ -14,7 +14,8 @@ You can find a [demo](http://bear.cs.kuleuven.be/tacle) here. (To be updated soo
   year = "2017",
   note = "Accepted",
   url = "https://lirias.kuleuven.be/handle/123456789/580741",
-}```
+}
+```
 
 2. Paramonov, Sergey; Kolb, Samuel; Guns, Tias; De Raedt, Luc. TaCLe: Learning constraints in tabular data, CIKM, International Conference on Information and Knowledge Management, Sheridan Communications, Conference on Information and Knowledge Management (CIKM), 6-10 Nov 2017 
 
@@ -28,4 +29,5 @@ You can find a [demo](http://bear.cs.kuleuven.be/tacle) here. (To be updated soo
   doi = "10.1145/3132847.3133193",
   note = "Accepted",
   url = "https://lirias.kuleuven.be/handle/123456789/591414",
-}```
+}
+```
