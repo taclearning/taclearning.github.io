@@ -2,4 +2,4 @@
 
 Software: [coming soon]
 
-You can find a [http://bear.cs.kuleuven.be/tacle](demo) here. (To be updated soon)
+You can find a [demo](http://bear.cs.kuleuven.be/tacle) here. (To be updated soon)
