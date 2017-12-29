@@ -4,6 +4,8 @@
 
 Software / code: [coming soon]
 
+Summary of links for benchmark data collection: [links.txt](links.txt)
+
 You can find a [demo](http://bear.cs.kuleuven.be/tacle) here. (To be updated soon)
 
 ## Publications
